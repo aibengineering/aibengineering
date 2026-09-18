@@ -29,10 +29,10 @@ The engineering underneath:
 | Area | What I work with |
 | :--- | :--- |
 | Data science & modelling | R, Python, gradient-boosted models |
-| Data processing | Spark |
+| Data processing | Spark, Polars |
 | Software & AI agents | TypeScript, MCP, agent tools and feedback systems |
 | Problems I enjoy | Optimisation, navigation, and making systems more reliable |
-| Currently learning | ROS (Robot Operating System) |
+| Currently learning | Rust |
 
 ---
 
