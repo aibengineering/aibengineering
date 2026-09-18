@@ -4,7 +4,7 @@ Australian data scientist building AI agents, solving hard problems and relentle
 
 I like a clear target and figuring out how to get there — through modelling, optimisation, and lots of testing and iteration.
 
-[Find me on X](https://x.com/aibengineering) · [Watch the Minecraft run](https://www.youtube.com/live/ZjtwWEfFVFY)
+[Find me on X](https://x.com/aibengineering) · [Join the Discord](https://discord.gg/czyFwUGUC) · [Watch the Minecraft run](https://www.youtube.com/live/ZjtwWEfFVFY)
 
 ## An AI agent beat Minecraft with the tools I built
 
