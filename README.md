@@ -2,6 +2,8 @@
 
 Australian data scientist building AI agents, solving hard problems and relentlessly learning.
 
+I'm exploring agent engineering roles and am open to relocating to the San Francisco Bay Area.
+
 I like a clear target and figuring out how to get there — through modelling, optimisation, and lots of testing and iteration.
 
 [Find me on X](https://x.com/aibengineering) · [Join the Discord](https://discord.gg/czyFwUGUC) · [Watch the Minecraft run](https://www.youtube.com/live/ZjtwWEfFVFY)
@@ -11,6 +13,8 @@ I like a clear target and figuring out how to get there — through modelling, o
 I built **[mine-ai-mcp](https://github.com/aibengineering/mine-ai-mcp)**, an MCP server that lets an AI model request actions in Minecraft and get useful feedback on what happened.
 
 The agent completed **vanilla Minecraft Java 1.21.4, Survival, Normal difficulty** in **3h 56m**, with one death and a successful gear recovery.
+
+**Cited by Google DeepMind** in [*A team of Gemini 4 Argon agents beats Minecraft*](https://arxiv.org/html/2610.22319v1#S7) (2026), which discusses Mine AI MCP as a community project reporting an end-to-end completion.
 
 [![AI agent beats Minecraft: the Ender Dragon defeated, with me celebrating on stream.](assets/minecraft-victory.png)](https://www.youtube.com/live/ZjtwWEfFVFY)
 
